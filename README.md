@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Abhijeet
 
-![Intro](images/intro.png)
+![Intro](https://raw.githubusercontent.com/bhagatabhijeet/bhagatabhijeet/master/images/intro.png)
 
 
 <!--
