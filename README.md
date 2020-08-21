@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I am Abhijeet
+
+![Intro](images/intro.png)
+
 
 <!--
 **bhagatabhijeet/bhagatabhijeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
