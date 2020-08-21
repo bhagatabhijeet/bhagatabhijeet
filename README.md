@@ -9,6 +9,19 @@ currently I am also doing a bootcamp from [University Of California,Berkeley, ex
 
 ---
 
+[<img align="left" alt="Abhijeet's Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://bhagatabhijeet.github.io/portfolio/index.html)
+[<img align="left" alt="TechUSity | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCuxFmC9ukxD82Wcw05K6jSg)
+[<img align="left" alt="Abhijeet Bhagat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abhijeetbhagat/)
+
+
+<br />
+
+
+
+<br />
+
+
+
 <!--
 **bhagatabhijeet/bhagatabhijeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
