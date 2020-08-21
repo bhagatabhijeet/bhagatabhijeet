@@ -1,7 +1,11 @@
 ### Hi there 👋 I am Abhijeet
 
-![Intro](https://raw.githubusercontent.com/bhagatabhijeet/bhagatabhijeet/master/images/intro.png)
-
+![Intro](https://raw.githubusercontent.com/bhagatabhijeet/bhagatabhijeet/master/images/intro.png =700x70)
+</br>
+Hello!, I'm Abhijeet Bhagat. I am a software Engineer, based in Bay Area, California. I am a full stack developer and enjoy creating applications, utilities, websites and programs that make others more productive.<br/>
+After graduating from Government College of Engineering, India. I worked in many good companies like, Geometric Software Solutions, Persistent Systems Inc., Synechron Inc and on-site with Clients like Bank of America, Intuit, GCI.<br/>
+I am currently working as Distinguished Engineer at BlackBerry Ltd. USA. Where I work on modern alerting and network based notification system.
+currently I am also doing a bootcamp from University Of California,Berkeley, extension.<br/>
 
 <!--
 **bhagatabhijeet/bhagatabhijeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
