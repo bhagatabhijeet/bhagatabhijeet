@@ -1,6 +1,7 @@
 ### Hi there 👋 I am Abhijeet
-
+[![Animated Gif](https://raw.githubusercontent.com/bhagatabhijeet/bhagatabhijeet/master/images/portfolio.png)](https://bhagatabhijeet.github.io/portfolio/index.html)
 ![intro](https://raw.githubusercontent.com/bhagatabhijeet/bhagatabhijeet/master/images/intro.png)
+
 
 Hello!, I'm Abhijeet Bhagat. I am a software Engineer, based in Bay Area, California. I am a full stack developer and enjoy creating applications, utilities, websites and programs that make others more productive.<br/>
 After graduating from [Government College of Engineering, India](http://geca.ac.in/home.aspx). I worked in many good companies like, Geometric Software Solutions, Persistent Systems Inc., Synechron Inc and on-site with Clients like Bank of America, Intuit, GCI.<br/>
