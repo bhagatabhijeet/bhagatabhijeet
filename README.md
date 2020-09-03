@@ -20,7 +20,17 @@ currently I am also doing a bootcamp from [University Of California,Berkeley, ex
 [<img align="left" alt="Abhijeet Bhagat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abhijeetbhagat/)
 [<img align="left" alt="Abhijeet Bhagat | Hackerrank" width="22px" height="22px" src="https://github.com/bhagatabhijeet/bhagatabhijeet/raw/master/images/hackerrank.png" />](https://www.hackerrank.com/bhagat_abhijeet/)
 
+<br/>
 
+---
+
+##### Udemy Certificates
+
+|Course|Conducted By|Certificate Link|
+| --- | --- | --- |
+|[Git Complete: The definitive, step-by-step](https://www.udemy.com/course/git-complete/)|[Jayson Taylor](https://www.udemy.com/user/jasontaylor22/)|https://www.udemy.com/certificate/UC-4WULFMU4/|
+
+---
 <br />
 
 
