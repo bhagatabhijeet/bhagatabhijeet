@@ -32,6 +32,11 @@ currently I am also doing a bootcamp from [University Of California,Berkeley, ex
 |*[HTML5 Specialist: Comprehensive HTML5 Training](https://www.udemy.com/course/html5-specialist//)*|[Framework Television Inc.](https://www.udemy.com/course/html5-specialist/#instructor-1/)|https://www.udemy.com/certificate/UC-caa83f39-cabe-4eb2-8665-327b85d88f49/|
 
 ---
+
+### My Stats
+
+[![Abhijeet's github stats](https://github-readme-stats.vercel.app/api?username=bhagatabhijeet)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
 
 
