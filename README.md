@@ -35,8 +35,8 @@ currently I am also doing a bootcamp from [University Of California,Berkeley, ex
 
 ### My Stats
 
-[![Abhijeet's github stats](https://github-readme-stats.vercel.app/api?username=bhagatabhijeet&show_icons=true&icon_color=32365b&bg_color=90,ffffff,ffffff,ffffff,ffffff,0e81e0)](https://github.com/anuraghazra/github-readme-stats)
-[![Abhijeet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagatabhijeet&layout=compact&bg_color=90,ffffff,ffffff,ffffff,ffffff,0e81e0)](https://github.com/anuraghazra/github-readme-stats)
+[![Abhijeet's github stats](https://github-readme-stats.vercel.app/api?username=bhagatabhijeet&show_icons=true&icon_color=32365b&bg_color=90,ffffff,ffffff,ffffff,ffffff,ffffff,0e81e0)](https://github.com/anuraghazra/github-readme-stats)
+[![Abhijeet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagatabhijeet&bg_color=90,ffffff,ffffff,ffffff,ffffff,ffffff,0e81e0)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
