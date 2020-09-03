@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Abhijeet
 <div align="center">
   <a href="https://bhagatabhijeet.github.io/portfolio/index.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/bhagatabhijeet/bhagatabhijeet/master/images/portfolio.gif" alt="full browser demo gif"/
+    <img src="https://raw.githubusercontent.com/bhagatabhijeet/bhagatabhijeet/master/images/portfolio.gif" alt="full browser demo gif"/>
   </a>
 </div>
 
