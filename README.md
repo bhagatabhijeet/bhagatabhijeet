@@ -28,7 +28,8 @@ currently I am also doing a bootcamp from [University Of California,Berkeley, ex
 
 |Course|Conducted By|Certificate Link|
 | --- | --- | --- |
-|[Git Complete: The definitive, step-by-step](https://www.udemy.com/course/git-complete/)|[Jayson Taylor](https://www.udemy.com/user/jasontaylor22/)|https://www.udemy.com/certificate/UC-4WULFMU4/|
+|*[Git Complete: The definitive, step-by-step](https://www.udemy.com/course/git-complete/)*|[Jayson Taylor](https://www.udemy.com/user/jasontaylor22/)|https://www.udemy.com/certificate/UC-4WULFMU4/|
+|*[HTML5 Specialist: Comprehensive HTML5 Training](https://www.udemy.com/course/html5-specialist//)*|[Framework Television Inc.](https://www.udemy.com/course/html5-specialist/#instructor-1/)|https://www.udemy.com/certificate/UC-caa83f39-cabe-4eb2-8665-327b85d88f49/|
 
 ---
 <br />
