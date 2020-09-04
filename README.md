@@ -28,8 +28,8 @@ currently I am also doing a bootcamp from [University Of California,Berkeley, ex
 
 |Course|Conducted By|Certificate Link|
 | --- | --- | --- |
-|*[Git Complete: The definitive, step-by-step](https://www.udemy.com/course/git-complete/)*|[Jayson Taylor](https://www.udemy.com/user/jasontaylor22/)|https://www.udemy.com/certificate/UC-4WULFMU4/|
-|*[HTML5 Specialist: Comprehensive HTML5 Training](https://www.udemy.com/course/html5-specialist//)*|[Framework Television Inc.](https://www.udemy.com/course/html5-specialist/#instructor-1/)|https://www.udemy.com/certificate/UC-caa83f39-cabe-4eb2-8665-327b85d88f49/|
+|*[Git Complete: The definitive, step-by-step](https://www.udemy.com/course/git-complete/)*|[Jayson Taylor](https://www.udemy.com/user/jasontaylor22/)|<a href="https://www.udemy.com/certificate/UC-4WULFMU4/" target="_blank"><img src="https://github.com/bhagatabhijeet/bhagatabhijeet/raw/master/images/cft.png"></img> CFT# UC-4WULFMU4</a>|
+|*[HTML5 Specialist: Comprehensive HTML5 Training](https://www.udemy.com/course/html5-specialist//)*|[Framework Television Inc.](https://www.udemy.com/course/html5-specialist/#instructor-1/)|<a href="https://www.udemy.com/certificate/UC-caa83f39-cabe-4eb2-8665-327b85d88f49" target="_blank"><img src="https://github.com/bhagatabhijeet/bhagatabhijeet/raw/master/images/cft.png"></img> CFT# UC-caa83f39-cabe-4eb2-8665-327b85d88f49</a>|
 
 ---
 
@@ -50,7 +50,6 @@ currently I am also doing a bootcamp from [University Of California,Berkeley, ex
 **bhagatabhijeet/bhagatabhijeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
