@@ -44,7 +44,8 @@ currently I am also doing a bootcamp from [University Of California,Berkeley, ex
 
 <br />
 
-
+[![ReadMeBuilder](https://github-readme-stats.vercel.app/api/pin/?username=bhagatabhijeet&repo=readmebuilder)](https://github.com/bhagatabhijeet/readmebuilder)
+[![jestSamples](https://github-readme-stats.vercel.app/api/pin/?username=bhagatabhijeet&repo=jestSamples)](https://github.com/bhagatabhijeet/jestSamples)
 
 <!--
 **bhagatabhijeet/bhagatabhijeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
