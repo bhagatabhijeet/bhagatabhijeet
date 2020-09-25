@@ -24,12 +24,14 @@ currently I am also doing a bootcamp from [University Of California,Berkeley, ex
 
 ---
 
-##### Udemy Certificates
+##### Certificates
 
-|Course|Conducted By|Certificate Link|
-| --- | --- | --- |
-|*[Git Complete: The definitive, step-by-step](https://www.udemy.com/course/git-complete/)*|[Jayson Taylor](https://www.udemy.com/user/jasontaylor22/)|<a href="https://www.udemy.com/certificate/UC-4WULFMU4/" target="_blank"><img src="https://github.com/bhagatabhijeet/bhagatabhijeet/raw/master/images/cft.png"></img> CFT# UC-4WULFMU4</a>|
-|*[HTML5 Specialist: Comprehensive HTML5 Training](https://www.udemy.com/course/html5-specialist//)*|[Framework Television Inc.](https://www.udemy.com/course/html5-specialist/#instructor-1/)|<a href="https://www.udemy.com/certificate/UC-caa83f39-cabe-4eb2-8665-327b85d88f49" target="_blank"><img src="https://github.com/bhagatabhijeet/bhagatabhijeet/raw/master/images/cft.png"></img> CFT# UC-caa83f39-cabe-4eb2-8665-327b85d88f49</a>|
+|Certifying Authority|Course/Subject/Skill|Conducted By|Certificate Link|
+| --- | --- | --- | --- |
+|Udemy|*[Git Complete: The definitive, step-by-step](https://www.udemy.com/course/git-complete/)*|[Jayson Taylor](https://www.udemy.com/user/jasontaylor22/)|<a href="https://www.udemy.com/certificate/UC-4WULFMU4/" target="_blank"><img src="https://github.com/bhagatabhijeet/bhagatabhijeet/raw/master/images/cft.png"></img> CFT# UC-4WULFMU4</a>|
+|Udemy|*[HTML5 Specialist: Comprehensive HTML5 Training](https://www.udemy.com/course/html5-specialist//)*|[Framework Television Inc.](https://www.udemy.com/course/html5-specialist/#instructor-1/)|<a href="https://www.udemy.com/certificate/UC-caa83f39-cabe-4eb2-8665-327b85d88f49" target="_blank"><img src="https://github.com/bhagatabhijeet/bhagatabhijeet/raw/master/images/cft.png"></img> CFT# UC-caa83f39-cabe-4eb2-8665-327b85d88f49</a>|
+|HackerRank|*Python*| |<a href="https://www.hackerrank.com/certificates/f8b3b2407c4d" target="_blank"><img src="https://github.com/bhagatabhijeet/bhagatabhijeet/raw/master/images/cft.png"></img> CFT# f8b3b2407c4d</a>|
+
 
 ---
 
