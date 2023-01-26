@@ -32,7 +32,7 @@ currently I am also doing a bootcamp from [University Of California,Berkeley, ex
 |Udemy|*[HTML5 Specialist: Comprehensive HTML5 Training](https://www.udemy.com/course/html5-specialist//)*|[Framework Television Inc.](https://www.udemy.com/course/html5-specialist/#instructor-1/)|<a href="https://www.udemy.com/certificate/UC-caa83f39-cabe-4eb2-8665-327b85d88f49" target="_blank"><img src="https://github.com/bhagatabhijeet/bhagatabhijeet/raw/master/images/cft.png"></img> CFT# UC-caa83f39-cabe-4eb2-8665-327b85d88f49</a>|
 |HackerRank|*Python*| |<a href="https://www.hackerrank.com/certificates/f8b3b2407c4d" target="_blank"><img src="https://github.com/bhagatabhijeet/bhagatabhijeet/raw/master/images/cft.png"></img> CFT# f8b3b2407c4d</a>|
 |HackerRank|*JavaScript*| |<a href="https://www.hackerrank.com/certificates/eca7116cae58" target="_blank"><img src="https://github.com/bhagatabhijeet/bhagatabhijeet/raw/master/images/cft.png"></img> CFT# eca7116cae58</a>|
-
+|Udemy|*Dependency Injection in .Net Core6*||<a href="http://ude.my/UC-79e5a5c8-9907-44ff-9a1d-c4c8c354c61a" target="_blank"><img src="https://github.com/bhagatabhijeet/bhagatabhijeet/raw/master/images/cft.png"></img> CFT# UC-caa83f39-cabe-4eb2-8665-327b85d88f49</a>|
 
 ---
 
